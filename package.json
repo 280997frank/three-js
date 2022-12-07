@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run build && npm run serve",
-    "build": "webpack",
+    "build": "webpack build --config ./webpack.prod.js",
     "serve": "webpack serve"
   },
   "keywords": [],
@@ -21,6 +21,11 @@
   },
   "dependencies": {
     "@types/three": "^0.131.1",
-    "three": "^0.132.2"
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.7.2",
+    "three": "^0.132.2",
+    "webpack-merge": "^5.8.0"
   }
 }
