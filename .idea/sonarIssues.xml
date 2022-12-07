@@ -58,7 +58,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../learn-three-fiber/src/App.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../learn-three-fiber/src/App.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../learn-three-fiber/src/SceneContainer.js">
           <value>
             <set />
           </value>
@@ -88,6 +98,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../learn-three-fiber/src/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../learn-three-fiber/src/utils.js">
           <value>
             <set />
@@ -99,6 +114,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../react-three-third-person/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../threeJS-lesson-3/public/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../threeJS-lesson-3/src/index.js">
           <value>
             <set />
           </value>

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run build && npm run serve",
-    "build": "webpack build",
+    "build": "webpack",
     "serve": "webpack serve"
   },
   "keywords": [],
