@@ -96,9 +96,9 @@ function generateFloor() {
     // TEXTURES
     const textureLoader = new THREE.TextureLoader();
     const placeholder = textureLoader.load("./textures/placeholder/placeholder.png");
-    const sandBaseColor = textureLoader.load("./textures/sand/Sand 002_COLOR.jpg");
+    const sandBaseColor = textureLoader.load("./textures/sand/Sand 002_DISP.jpg");
     const sandNormalMap = textureLoader.load("./textures/sand/Sand 002_NRM.jpg");
-    const sandHeightMap = textureLoader.load("./textures/sand/Sand 002_DISP.jpg");
+    const sandHeightMap = textureLoader.load("./textures/sand/Sand 002_COLOR.jpg");
     const sandAmbientOcclusion = textureLoader.load("./textures/sand/Sand 002_OCC.jpg");
 
     const WIDTH = 80
